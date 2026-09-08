@@ -1,0 +1,8 @@
+node_modules/
+**/node_modules/
+.env
+.env.local
+dist/
+build/
+frontend/node-v20.11.1-darwin-arm64/
+.DS_Store

@@ -1,0 +1,13 @@
+flask
+flask-cors
+scikit-learn
+pymongo
+requests
+beautifulsoup4
+nltk
+textblob
+lime
+joblib
+pandas
+numpy
+cloudscraper
